@@ -10,6 +10,10 @@ To be expanded.
 - Hair color, style?
 - Eye color, style?
 - Something to represent CPAN.  Always reading books?
+  - The books would be named using CPAN's typical syntax: Foo::Bar...
+  - She would have a library card or tote bag labeled "CPAN"
+    - A visit to the library would reveal it divided up into sections according to
+      the typical syntax of a CPAN module's name
 
 Perl 6 specific:
 - relation to official mascot at http://perl6.org/ possibly wings or hairstyle
